@@ -2,7 +2,7 @@ package hackerrank.algorithms.implementation;
 
 import java.util.Scanner;
 
-public class BonAppétit {
+public class BonAppetit {
 	public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
